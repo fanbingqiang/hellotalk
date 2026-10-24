@@ -1,0 +1,24 @@
+
+### push-cleanup: build artifacts, IDE, secrets
+target/
+build/
+dist/
+out/
+node_modules/
+logs/
+*.log
+*.jar
+*.war
+*.zip
+.idea/
+.vscode/
+*.iml
+.env
+.env.*
+application*.yml
+application*.yaml
+application*.properties
+*.mv.db
+*.db
+*.sqlite
+*.sqlite3

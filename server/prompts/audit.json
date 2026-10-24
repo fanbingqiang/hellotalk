@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "action": "initialization",
+      "message": "System prompt initialized with default content",
+      "timestamp": "2026-03-30T10:15:38.306Z",
+      "user": "system"
+    },
+    {
+      "action": "login",
+      "message": "Admin logged in",
+      "timestamp": "2026-03-30T13:56:32.998Z",
+      "user": "fan"
+    },
+    {
+      "action": "login",
+      "message": "Admin logged in",
+      "timestamp": "2026-03-31T12:48:41.914Z",
+      "user": "fan"
+    },
+    {
+      "action": "update_prompt",
+      "message": "Prompt updated via public API",
+      "timestamp": "2026-04-04T15:37:43.477Z",
+      "user": "user"
+    },
+    {
+      "action": "update_prompt",
+      "message": "Prompt updated via public API",
+      "timestamp": "2026-04-04T15:37:54.312Z",
+      "user": "user"
+    },
+    {
+      "action": "update_prompt",
+      "message": "Prompt updated via public API",
+      "timestamp": "2026-04-05T09:55:22.352Z",
+      "user": "user"
+    }
+  ]
+}
